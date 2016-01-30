@@ -1,6 +1,6 @@
-## Todo psql application
+# Todo psql application
 
-# Requirements
+## Requirements
 
 * Node
 * PostgreSQL database running on port 5432. A database needs to be created having one table with 3 fields. 
